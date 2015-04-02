@@ -14,7 +14,7 @@
           <block type="controls_repeat" id="5" inline="true">
             <value name="TIMES">
               <block type="math_number" id="6">
-                <field name="NUM">16250</field>
+                <field name="NUM">16000</field>
               </block>
             </value>
             <statement name="DO">
@@ -38,7 +38,7 @@
                           <block type="controls_repeat" id="13" inline="true">
                             <value name="TIMES">
                               <block type="math_number" id="14">
-                                <field name="NUM">16250</field>
+                                <field name="NUM">16000</field>
                               </block>
                             </value>
                             <statement name="DO">
@@ -62,7 +62,7 @@
                                           <block type="controls_repeat" id="21" inline="true">
                                             <value name="TIMES">
                                               <block type="math_number" id="22">
-                                                <field name="NUM">16250</field>
+                                                <field name="NUM">16000</field>
                                               </block>
                                             </value>
                                             <statement name="DO">
@@ -86,7 +86,7 @@
                                                           <block type="controls_repeat" id="29" inline="true">
                                                             <value name="TIMES">
                                                               <block type="math_number" id="30">
-                                                                <field name="NUM">16250</field>
+                                                                <field name="NUM">16000</field>
                                                               </block>
                                                             </value>
                                                             <statement name="DO">
