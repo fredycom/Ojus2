@@ -26,7 +26,7 @@
                   <block type="controls_repeat" id="9" inline="true">
                     <value name="TIMES">
                       <block type="math_number" id="10">
-                        <field name="NUM">136000</field>
+                        <field name="NUM">136300</field>
                       </block>
                     </value>
                     <statement name="DO">
@@ -50,7 +50,7 @@
                                   <block type="controls_repeat" id="17" inline="true">
                                     <value name="TIMES">
                                       <block type="math_number" id="18">
-                                        <field name="NUM">136000</field>
+                                        <field name="NUM">136300</field>
                                       </block>
                                     </value>
                                     <statement name="DO">
@@ -74,7 +74,7 @@
                                                   <block type="controls_repeat" id="25" inline="true">
                                                     <value name="TIMES">
                                                       <block type="math_number" id="26">
-                                                        <field name="NUM">136000</field>
+                                                        <field name="NUM">136300</field>
                                                       </block>
                                                     </value>
                                                     <statement name="DO">
